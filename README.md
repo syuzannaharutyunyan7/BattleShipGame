@@ -101,7 +101,7 @@ Make sure the client’s `HOST` and `PORT` variables match the server’s IP and
 
 ## License
 
-This project is open source and free to use.
+This project is licensed under the MIT License.
 
 ---
 
